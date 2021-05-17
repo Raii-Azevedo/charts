@@ -1,4 +1,4 @@
-![Charts](https://github.com/Raii-Azevedo/FoodFinder/blob/master/FoodFinder.gif)
+![Charts](https://github.com/Raii-Azevedo/charts/blob/master/charts.gif)
  
 ## Charts
  
