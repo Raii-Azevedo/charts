@@ -26,9 +26,9 @@ Aqui estão as tecnologias utilizadas nesse projeto:
  
 ## Links
  
-  - Link of deployed application: (Heroku)
+  - Link of deployed application
   - Repository: https://github.com/Raii-Azevedo/charts
-  - Tutorial: 
+  - Tutorial: https://github.com/Raii-Azevedo/charts/blob/master/Gerando%20gr%C3%A1ficos%20com%20Django.pdf
  
  
 ## Versão
