@@ -27,8 +27,8 @@ Aqui estão as tecnologias utilizadas nesse projeto:
 ## Links
  
   - Link of deployed application: (Heroku)
-  - Repository: https://github.com/Raii-Azevedo/FoodFinder
-  - Deploy: https://geo-rai.herokuapp.com/
+  - Repository: https://github.com/Raii-Azevedo/charts
+  - Tutorial: 
  
  
 ## Versão
